@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial PingShift release.",
+  "pub_date": "2026-06-09T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "REPLACE_WITH_SIG_FROM_BUILD",
+      "url": "https://github.com/Computer5302/PingShift-Download-/releases/download/v0.1.0/PingShift_0.1.0_x64-setup.nsis.zip"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# Binaries and secrets
+*.exe
+*.dll
+*.zip
+*.sig
+*.pfx
+*.pem
+.env
+.env.*
+
+# Installer build output
+infra/installer/dist/
+
+# OS
+.DS_Store
+Thumbs.db
