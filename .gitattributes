@@ -1,0 +1,4 @@
+# GitHub auto-attaches "Source code (zip/tar.gz)" on every Release — cannot disable.
+# export-ignore shrinks those archives to manifest-only (no installer scripts).
+infra/ export-ignore
+README.md export-ignore
