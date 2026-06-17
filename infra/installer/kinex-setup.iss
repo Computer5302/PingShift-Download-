@@ -34,7 +34,8 @@ Source: "install-service.ps1"; DestDir: "{app}"; Flags: ignoreversion
 Name: "{group}\PingShift"; Filename: "{app}\{#MyAppExeName}"
 
 [Run]
-Filename: "powershell.exe"; Parameters: "-ExecutionPolicy Bypass -File ""{app}\install-service.ps1"""; Flags: runhidden waituntilterminated
+; Install routing service directly — no PowerShell flash.
+Filename: "{app}\pingshift-routing-service.exe"; Parameters: "--install"; Flags: runhidden waituntilterminated; StatusMsg: "Installing PingShift Routing service..."
 
 [Code]
 ; SignTool=signtool sign /fd SHA256 /a /tr http://timestamp.digicert.com /td SHA256 $f
