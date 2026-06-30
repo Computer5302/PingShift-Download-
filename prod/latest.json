@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "PingShift 1.0.1",
-  "pub_date": "2026-06-30T21:45:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEpiNW9MWVFZSDVhT2VwU3VLejAyeDBEY1F5Nzdka1gxYmdySTNnQTlVTmJoN0NNd3k5UFhweGh4WmZteHAvazlmeE5WV2t4b0hmWVFUc1RlM0k4WGc0b051aVdEQ0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODUwOTU3CWZpbGU6UGluZ1NoaWZ0XzEuMC4xX3g2NC1zZXR1cC5leGUKaEFQNGJyNDRrK04vZ0JqajgvTy8zdmJnMUkrNmkvUFduMDJMenlxVFlHV3d4Y3Npd1kxMGZMMWdidE5iazlqU1g1RFpUUTM1RkxGTTdpU042UXM5QkE9PQo=",
-      "url": "https://github.com/Computer5302/PingShift-Download-/releases/download/v1.0.1/PingShift_1.0.1_x64-setup.exe"
-    }
-  }
+    "version":  "1.0.2",
+    "notes":  "PingShift 1.0.2 — fixes prod login (correct Supabase).",
+    "pub_date":  "2026-06-30T20:48:28Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEpiNW9MWVFZSDBqVG9qU1l5T1dYN3FiNk5rSmlPKzg0Ujg5QVhrRnl0K1Y3YmFDVUdVRWF0dldESkNxbjVZR0pzeDl3d0lTVXhsZVMvTUtlODJJSEJWQjhmMmhOZndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODUyNDQ3CWZpbGU6UGluZ1NoaWZ0XzEuMC4yX3g2NC1zZXR1cC5leGUKWDdnOUdhVE1rY3psM2NIeEtLRG05ZHMzRVZ2YjlsYUdmWlB3bWR5SkowV3haR1JLMXVUcy9Lc0ZPd2JYV0ZnT24vVFFLWW9hMEdrSmZZLzNyZ2x6Q2c9PQo=",
+                                             "url":  "https://github.com/Computer5302/PingShift-Download-/releases/download/v1.0.2/PingShift_1.0.2_x64-setup.exe"
+                                         }
+                  }
 }
