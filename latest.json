@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.2",
-    "notes":  "PingShift 1.0.2 — fixes prod login (correct Supabase).",
-    "pub_date":  "2026-06-30T20:48:28Z",
+    "version":  "1.0.4",
+    "notes":  "WFP VAL 62 fix, London/Singapore/Paris regions, boot restore UX.",
+    "pub_date":  "2026-06-30T23:19:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEpiNW9MWVFZSDBqVG9qU1l5T1dYN3FiNk5rSmlPKzg0Ujg5QVhrRnl0K1Y3YmFDVUdVRWF0dldESkNxbjVZR0pzeDl3d0lTVXhsZVMvTUtlODJJSEJWQjhmMmhOZndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODUyNDQ3CWZpbGU6UGluZ1NoaWZ0XzEuMC4yX3g2NC1zZXR1cC5leGUKWDdnOUdhVE1rY3psM2NIeEtLRG05ZHMzRVZ2YjlsYUdmWlB3bWR5SkowV3haR1JLMXVUcy9Lc0ZPd2JYV0ZnT24vVFFLWW9hMEdrSmZZLzNyZ2x6Q2c9PQo=",
-                                             "url":  "https://github.com/Computer5302/PingShift-Download-/releases/download/v1.0.2/PingShift_1.0.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEpiNW9MWVFZSHltbDdUQ1BqWUVWRkM4UmJ4NUZDVHVsTkJRYjcxZFp0S0pMWTNHL0F5U2J5aEEwRFFmOEJOdTRMY2pLeFFuc1BRbFpNclU0eVlBWGRHSnpEcDlYVGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODYxNTA4CWZpbGU6UGluZ1NoaWZ0XzEuMC40X3g2NC1zZXR1cC5leGUKWXJRQTFod0FlTHlYcms0NDZTRy9KeFcrbFZyNjY0V21RV25iR2NJV1hvUFdHQXViVlhwRjZBSXhXclJxSXVadDA4VC9jb1UyS0owT2Z5N1BlTmN4Q1E9PQo=",
+                                             "url":  "https://github.com/Computer5302/PingShift-Download-/releases/download/v1.0.4/PingShift_1.0.4_x64-setup.exe"
                                          }
                   }
 }
