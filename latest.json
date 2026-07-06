@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.5",
-    "notes":  "Hotfix: prod Supabase login. WFP VAL 62, regions, boot restore.",
-    "pub_date":  "2026-06-30T23:39:04Z",
+    "version":  "1.0.6",
+    "notes":  "EU/AP/KR server menu fixes, routing restore, trial extend fix, subscription UI.",
+    "pub_date":  "2026-07-06T00:33:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEpiNW9MWVFZSHdCTjIwTFZPQzdGTWYzY1FUUFE1d1RPOUFTVGUwb2o3QUJFd0w5SDJLUTFmWUlUbkc2YVlBN0xJZGoyMld0ekZCd1Byc1RGMDlhb3N1b1U3YUYyNVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODYyNDE2CWZpbGU6UGluZ1NoaWZ0XzEuMC41X3g2NC1zZXR1cC5leGUKU0Q0ZkdxeFBBS2wxaGExYit6Q2tHYk56bG85TE9PcXN5V0R4Tm5CWWQzVForcStWMjJPdnFldWE4dmJDQ2FvdWdLTVpCbDBpM0J2dXZiVGFMSXlmRFE9PQo=",
-                                             "url":  "https://github.com/Computer5302/PingShift-Download-/releases/download/v1.0.5/PingShift_1.0.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEpiNW9MWVFZSHdQOUNNZHV5VDNSMVJwSnpNZ0lQbzlONTFyTE1zRGFZemRSOUpSUnFoTVU0OHE3NXgwejBCUHdRODlwZVIxYWtoL1RXaFhGR1ZxUkdJbFhjM1VjalFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjAxMTEwCWZpbGU6UGluZ1NoaWZ0XzEuMC42X3g2NC1zZXR1cC5leGUKWCtkZ1pGazRPNC9UNEZreFNQQ1IzMVM2Z1RlQmNzeGJsZ2xIWGsyZ2pIWTRiZWMyK1RFc2swNXI4OWUyME5KOGhKeHk0U2x4U0IrK1QrNktsanpjQ2c9PQo=",
+                                             "url":  "https://github.com/Computer5302/PingShift-Download-/releases/download/v1.0.6/PingShift_1.0.6_x64-setup.exe"
                                          }
                   }
 }
