@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.6",
-    "notes":  "EU/AP/KR server menu fixes, routing restore, trial extend fix, subscription UI.",
-    "pub_date":  "2026-07-06T00:33:12Z",
+    "version":  "1.0.7",
+    "notes":  "EU server menu ping fix (???ms), menu probes tunneled via WFP, VAL 62 guard, trial extend fix.",
+    "pub_date":  "2026-07-08T18:07:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEpiNW9MWVFZSHdQOUNNZHV5VDNSMVJwSnpNZ0lQbzlONTFyTE1zRGFZemRSOUpSUnFoTVU0OHE3NXgwejBCUHdRODlwZVIxYWtoL1RXaFhGR1ZxUkdJbFhjM1VjalFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjAxMTEwCWZpbGU6UGluZ1NoaWZ0XzEuMC42X3g2NC1zZXR1cC5leGUKWCtkZ1pGazRPNC9UNEZreFNQQ1IzMVM2Z1RlQmNzeGJsZ2xIWGsyZ2pIWTRiZWMyK1RFc2swNXI4OWUyME5KOGhKeHk0U2x4U0IrK1QrNktsanpjQ2c9PQo=",
-                                             "url":  "https://github.com/Computer5302/PingShift-Download-/releases/download/v1.0.6/PingShift_1.0.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEpiNW9MWVFZSDZNVHU1NmZHQy9ESVovZkljWWtoakttWittTzVOOVU4M1lsK1NoV215YytIL3V5OG9UaGUxbjQ2bStWMWl4V0JqclFwb2l2Y2kzMXV0ZVZ4cEdNSlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTMxMTgxCWZpbGU6UGluZ1NoaWZ0XzEuMC43X3g2NC1zZXR1cC5leGUKUGZ2bXF4VHFoSGFWMUhQUTA2N0hLQ0xKNnhaT1VxNDRVSFpzRU9YNWVBV1pXYlNaVWZXMnFLdmNldXU4RUdrWjA4TERzbnY1cnZZaXFwcHQyak10RHc9PQo=",
+                                             "url":  "https://github.com/Computer5302/PingShift-Download-/releases/download/v1.0.7/PingShift_1.0.7_x64-setup.exe"
                                          }
                   }
 }
